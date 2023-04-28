@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/os.mbed.com/users/sravet/code/wave_player
+default = http://mbed.org/users/sravet/code/wave_player/

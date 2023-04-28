@@ -1,0 +1,13 @@
+^BUILD$
+^.clangd$
+^compile_commands.json$
+^.cache$
+^.mbed$
+^mbed$
+^4DGL-uLCD-SE$
+^MMA8452$
+^wave_player$
+^Joystick$
+^SparkfunAnalogJoystick$
+^MPR121$
+^SDFileSystem$
